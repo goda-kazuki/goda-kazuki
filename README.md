@@ -1,2 +1,2 @@
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goda-kazuki&layout=compact&count_private=true)
+![Top langs](https://github-readme-stats.vercel.app/api?username=goda-kazuki&layout=compact&count_private=true)
 
